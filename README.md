@@ -11,7 +11,9 @@
 <div>
   <h6> PROGRAMMING LANGUAGES </h6>
   <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height ="45" width="40">
-  <img src = "https://user-images.githubusercontent.com/101113632/162759318-5d545676-b627-4ca6-9627-615f13e918db.png" height ="35" width="30">
+  <img src = "https://static.javatpoint.com/csharp/images/c-sharp.png" height ="35" width="30">
+  <img src = "https://www.solvps.com/blog/wp-content/uploads/2014/08/newdotnetlogo_2.png" height ="35" width="70">
+  
  </div>   
   <div>
   <h6> FRONT END TECHNOLOGIES </h6>
@@ -22,9 +24,9 @@
  </div>   
   <div>
   <h6> DATABASE MANAGEMENT SYSTEM</h6>
-  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" width="50">
   <img src = "https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" height ="55" width="50">
-  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="50" width="50">
+  <img src = "https://www.fujitsu.com/lu/Images/oracle-db580x224_tcm67-40873.jpg" height="50" width="50">
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" width="50">
  </div> 
  <div>
   <h6>BI TOOLS</h6>
