@@ -1,8 +1,8 @@
 <div>
 <h1 align="center">HI THERE, I AM  AMIRTHAVALLI   <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="20" width="20" <h1>
 </div>  
-<div>
-<img src = "https://www.thomasmaurer.ch/wp-content/uploads/2019/01/AZ-900-Microsoft-Azure-Fundamentals.webp" height ="75" width="90">
+
+
   
 <div>
   <h6> PROGRAMMING LANGUAGES </h6>
@@ -28,4 +28,9 @@
   <h6>BI TOOLS</h6>
   <img src ="https://novorender.com/wp-content/uploads/2021/10/power-bi.jpg" height="55" width="60">
   <img src = "https://static.wixstatic.com/media/e16c6a_3ad31c0baa1d45e88d15b1f9ed24b576~mv2.png/v1/fill/w_360,h_209,al_c,q_90/e16c6a_3ad31c0baa1d45e88d15b1f9ed24b576~mv2.webp" height="50" width="60">
- </div>    
+   
+ </div> 
+  <div>
+  <img src = "https://itlifeclub.b-cdn.net/wp-content/uploads/2021/03/AZ-900-Microsoft-Azure-Fundamentals.png" height ="95" width="140">
+  </div>
+
