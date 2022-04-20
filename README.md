@@ -4,10 +4,10 @@
 <div>
   <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png" height="10",width="10">
   <font size="-2"> Reach me :&nbsp&nbsp  </font>
-  <font size="-2"><b> pamir06@gmail.com  </b></font></br>
+  
   <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" height= "10" width="10">
   <font size="-2"> I am currently learning:&nbsp&nbsp </font>
-  <font size="-1"><b> Google Data Analytics professional Certificate</b></font>
+  
 <div>
   <h6> PROGRAMMING LANGUAGES </h6>
   <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height ="45" width="40">
