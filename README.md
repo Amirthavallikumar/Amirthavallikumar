@@ -10,7 +10,7 @@
   
 <div>
   <h6> PROGRAMMING LANGUAGES </h6>
-  <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height ="45" width="40">
+  <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height ="45" width="50">
   <img src = "https://static.javatpoint.com/csharp/images/c-sharp.png" height ="35" width="30">
   <img src = "https://www.solvps.com/blog/wp-content/uploads/2014/08/newdotnetlogo_2.png" height ="35" width="70">
   
