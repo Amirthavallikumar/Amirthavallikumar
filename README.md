@@ -4,7 +4,7 @@
   
  <div>
   <h6>BI TOOLS</h6>
-  <img src ="https://novorender.com/wp-content/uploads/2021/10/power-bi.jpg" height="55" width="60">
+  <img src ="https://novorender.com/wp-content/uploads/2021/10/power-bi.jpg" height="55" width="140">
  <img src= "https://assets-global.website-files.com/5aa7081220a301f2a3644f3b/5c2e5acc04f5b22064ab4fe7_Website_Reporting%20Icons-03.png" height="55" width="140">
    
  </div> 
