@@ -11,8 +11,7 @@
   <div>
   <h6> DATABASE MANAGEMENT SYSTEM</h6>
   <img src = "https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" height ="55" width="50">
-  <img src = "https://www.fujitsu.com/lu/Images/oracle-db580x224_tcm67-40873.jpg" height="50" width="50">
-  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" width="50">
+   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" width="50">
  </div> 
   <div>
   <h6> PROGRAMMING LANGUAGES </h6>
