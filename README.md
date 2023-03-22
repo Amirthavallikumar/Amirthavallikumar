@@ -21,10 +21,4 @@
   <div>
   <img src = "https://logos-world.net/wp-content/uploads/2021/03/Microsoft-Azure-Logo.png" height ="95" width="140">
   </div>
-    <div>
-  <h6> FRONT END TECHNOLOGIES </h6>
-  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height ="25" width="30">
-  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height ="25" width="30">
- 
- </div>  
-
+    
